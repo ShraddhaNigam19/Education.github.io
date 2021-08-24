@@ -1,0 +1,41 @@
+@media only screen and (min-width:200px) and (max-width:500px){
+    nav{
+        margin-left: 0px;
+        height: 200px;
+        width: 100%;
+    }
+    nav li{
+        padding: 0px 9px;
+        display: block;
+    }
+    .container2{
+        margin-left: 10px;
+    }
+    #search{
+        margin-left: 0px;
+    }
+    .content3 p{
+        width: 381px;
+    }
+    .content4 p{
+        width: 350px;
+    }
+    #section3 img{
+        display: none;
+    }
+    #section4{
+        margin-top: 261px;
+        margin-bottom: 320px;
+    }
+    #card-box3{
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    nav .fa-search{
+        display: none;
+    }
+    .container3 .col-lg-5{
+        height: 200px;
+        width: 200px;
+    }
+}
